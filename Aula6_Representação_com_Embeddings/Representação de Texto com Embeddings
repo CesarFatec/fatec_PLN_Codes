@@ -1,3 +1,5 @@
-# Objetivo da aula: 
-	1) Apresentar técnicas de embeddings de palavras, incluindo Word2Vec, GloVe e FastText. 
-	2) Ensinar como utilizá-las para transformar textos em representações vetoriais para PLN. 
+Objetivo da Aula
+
+1) Apresentar técnicas de embeddings de palavras, como Word2Vec, GloVe e FastText.
+2) Demonstrar como aplicar essas técnicas para transformar textos em representações vetoriais no contexto do Processamento
+de Linguagem Natural (PLN).
